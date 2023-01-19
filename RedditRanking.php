@@ -2,13 +2,6 @@
 /**
  * Ranking Library
  * contains alogrithms for story ranking
- * Basically a PHP Implementation of reddits algorithms
- *
- * @author      Lucas Nolte <lnolte@i.biz>
- * @since       0.1
- * @package     Polska Wiadomosc
- * @subpackage  Libraries
- * @see         https://github.com/reddit/reddit/blob/master/r2/r2/lib/db/_sorts.pyx
  */
 class Ranking {
     
